@@ -5,3 +5,4 @@ Motivation for this project came from being able to locate clusters of customers
 and the density of each cluster. Then from the data visualization target each highly populated
 cluster with digital advertising through longitude and latitude positions and with a radius.
 
+![Alt text](/relative/path/to/example.png?raw=true "Example")
