@@ -1,4 +1,4 @@
-# MapAddresses
+# Geo Clustering
 Map multiple street addresses onto a Google maps page as points of reference.
 
 Motivation for this project came from being able to locate clusters of customers on a map 
